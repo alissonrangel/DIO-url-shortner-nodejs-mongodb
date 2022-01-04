@@ -2,7 +2,7 @@
 
 # Projeto feito para o boocamp da DIO com base na aula da especialista Alexia Pereira
 ## Link do git hub do projeto original: 
-[GitHub Original](https://github.com/alexiadorneles/url-shortener-dio)
+[GitHub do projeto original da Alexia](https://github.com/alexiadorneles/url-shortener-dio)
 
 ## Alguns pacotes utilizados
 - npm i typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint
